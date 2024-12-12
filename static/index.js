@@ -517,7 +517,7 @@ const openNewtab = () => {
 };
 
 let splashtext = [
-  "void.towel.codes"
+  "For all your private browsing needs"
 ]
 
 const runService = async (url, override, overrideadrbar) => {
